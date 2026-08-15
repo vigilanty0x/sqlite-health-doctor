@@ -1,0 +1,7 @@
+{
+  "path": "examples/basic.db",
+  "root": "examples",
+  "required_tables": [],
+  "required_indexes": []
+}
+
